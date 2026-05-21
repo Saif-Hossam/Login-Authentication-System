@@ -3,7 +3,7 @@
 A complete, responsive frontend authentication system built with **HTML5, CSS3, and Vanilla JavaScript** using localStorage for data persistence.
 
 ## 🚀 Live Demo
-🔗 [Try the Login System Here]((https://saif-hossam.github.io/Login-Authentication-System/))
+🔗 [Try the Login System Here]([https://saif-hossam.github.io/Login-Authentication-System/])
 
 
 ## 📋 Features
