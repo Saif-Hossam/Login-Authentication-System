@@ -187,21 +187,8 @@ login-authentication-system/
 ├── auth.js                 # Shared utilities
 ├── login.js                # Login logic
 ├── register.js             # Registration logic
-├── dashboard.js            # Dashboard logic
-│
-├── README.md               # Documentation
-├── CONTRIBUTING.md         # Contribution guidelines
-├── .gitignore              # Git ignore file
-└── .gitattributes          # Git attributes
+└── dashboard.js            # Dashboard logic
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 💬 Questions?
 
